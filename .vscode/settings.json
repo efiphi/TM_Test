@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "bit": "c",
+        "*.tcc": "c",
+        "functional": "c",
+        "random": "c",
+        "limits": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/ubuntu/Desktop/test",
+            "binaryPath": "/home/ubuntu/Desktop/test/progmaind",
+            "binaryArgs": []
+        }
+    ]
+}
